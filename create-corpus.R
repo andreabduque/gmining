@@ -43,4 +43,4 @@ myCorpus = tm_map(myCorpus, adding_meta <-function(x) {
   meta(x, "id") <- debug_metadata[[it,1]]
   return(x)
 })
-
+save(myCorpus, file = "data/corpus.RData")
