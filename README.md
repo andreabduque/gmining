@@ -1,2 +1,2 @@
 # gutenberg-mining
-Cluster analysis in Project Gutenberg texts
+Mining Project Gutenberg texts
