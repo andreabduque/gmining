@@ -1,2 +1,2 @@
 # gutenberg-mining
-Mining Project Gutenberg texts
+Some utility functions for text analysis in project Gutenberg books. 

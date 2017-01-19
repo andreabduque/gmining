@@ -1,0 +1,13 @@
+Package: gmining
+Type: Package
+Title: Gutenberg Mining
+Version: 0.1.0
+Author: Andrea Duque 
+Maintainer: Andrea Duque <abd@cin.ufpe.br>
+Description: Contains utility functions for text analysis in project Gutenberg books.
+License: MIT <http://opensource.org/licenses/MIT>
+Depends: igraph, stringr, tm, NLP, tokenizers, rowr, dplyr
+Suggests: SnowballC, wordcloud
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
