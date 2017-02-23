@@ -13,3 +13,16 @@ stemCompletion2 <- function(x, dictionary) {
   x <- paste(x, sep="", collapse=" ")
   PlainTextDocument(stripWhitespace(x))
 }
+
+get_authors_list <- function(myCorpus){
+
+  authors_list <- mapply(meta, myCorpus, "author")
+
+  return(authors_list)
+
+}
+
+get_titles_list <- function(myCorpus){
+  titles_list <- mapply(meta, myCorpus, "title")
+  return(titles_list)
+}

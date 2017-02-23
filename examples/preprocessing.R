@@ -1,20 +1,11 @@
-library(dplyr)
-library(stringr)
-library(gutenbergr)
-library(tm)
-library(NLP)
-library(SnowballC)
-library(wordcloud)
+library(gmining)
+#library(wordcloud)
+library(cibm.utils)
+library(GGally)
+library(intergraph)
 
-#WARNING: NOT YET MODIFIED
-
-#Setting working Directory
-dir <- "/home/abd/Documentos/gutenberg-mining"
-setwd(dir)
-source("R/preprocessing-utils.R")
-
-#Loading corpus for preprocessing
-load("data/corpus.RData")
+#Loading corpus for preprocessing already downloaded from Gutenberg
+load("data/corpus_big_random.RData")
 
 #Convert to lower case
 myCorpus <- tm_map(myCorpus, content_transformer(tolower))
@@ -26,9 +17,10 @@ myCorpus <- tm_map(myCorpus, content_transformer(removeNumPunct))
 #Stemming Words
 copyMyCorpus <- myCorpus
 myCorpus <- tm_map(myCorpus, stemDocument)
+#Takes a long time
 #Return to original
-myCorpus <- lapply(myCorpus, stemCompletion2, dictionary=copyMyCorpus)
-myCorpus <- Corpus(VectorSource(myCorpus))
+#myCorpus <- lapply(myCorpus, stemCompletion2, dictionary=copyMyCorpus)
+#myCorpus <- Corpus(VectorSource(myCorpus))
 
 tdm <- TermDocumentMatrix(myCorpus, control=list(wordLengths=c(1,Inf)))
 dtm <- DocumentTermMatrix(myCorpus, control=list(wordLengths=c(1,Inf)))
@@ -38,8 +30,22 @@ freq_terms = findFreqTerms(tdm, lowfreq=50)
 #rownames(tdm)
 
 #Plot word cloud
-set.seed(142)
-freq <- colSums(as.matrix(dtm))
-wordcloud(names(freq), freq, max.words=150)
+#set.seed(142)
+#freq <- colSums(as.matrix(dtm))
+#wordcloud(names(freq), freq, max.words=150)
 
-
+freqMatrix <- as.matrix(tdm)
+#Jessen-Shannon distance Matrix
+distMatrix <- distance(freqMatrix, method = "JS", save.dist = FALSE, col.wise = TRUE, file = NULL)
+#Clusters MST-KNN
+gmstknn <- mstknn(distMatrix,min.size = 3, verbose = FALSE)
+authors_vec <- get_authors_list(myCorpus)
+#Labelling vertices by authors
+#http://www.shizukalab.com/toolkits/sna/plotting-networks-pt-2
+V(gmstknn)$authors= unlist(lapply(authors_vec, function(x){  unlist(strsplit(x, ","))[1]}))
+V(gmstknn)$title = get_titles_list(myCorpus)
+png(filename="/figs/results_cluster")
+#plot(gmstknn, vertex.label = get_authors_list(myCorpus))
+#plot(gmstknn)
+ggnet2(gmstknn, color = "authors",  palette = "Set2", label = unlist(get_titles_list(myCorpus)), label.alpha = 0.75, label.size = 4)
+dev.off()
