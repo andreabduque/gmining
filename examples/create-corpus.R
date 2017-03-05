@@ -12,7 +12,6 @@ metadata_books <- mapply(download_book_metadata, books$Author, books$Title)
 content_books <- download_books(metadata_books[1,])
 
 #Make the corpus
-
 myCorpus <- gutenberg_corpus(content_books, metadata_books)
 
 save(myCorpus, file = "data/corpus_big_random.RData")
