@@ -16,4 +16,4 @@ meta_authors <- unlist(lapply(dir$filelist, get_author_file_list))
 meta_titles <- unlist(lapply(dir$filelist, get_title_file_list))
 #Creating Corpus
 myCorpus <- folder_corpus(dir, meta_authors, meta_titles)
-save(myCorpus, file = "data/corpus_older_books.RData")
+save(myCorpus, file = "data/corpus_mid2.RData")

@@ -7,6 +7,7 @@ library(intergraph)
 #Loading corpus for preprocessing already downloaded from Gutenberg
 load("data/corpus_big_random.RData")
 
+myCorpus <- sample(myCorpus)
 #Convert to lower case
 myCorpus <- tm_map(myCorpus, content_transformer(tolower))
 
@@ -48,5 +49,5 @@ V(gmstknn)$Title = unlist(lapply(get_titles_list(myCorpus), str_replace_all, "(V
 #png(filename=path)
 #plot(gmstknn, vertex.label = 'Title')
 #plot(gmstknn)
-ggnet2(gmstknn, color = "authors",  palette = "Set2", label = "Title", label.trim = 20, label.alpha = 0.75, label.size = 2.3, node.size = 8, layout.exp = 0.5, label.dist = 3)
+ggnet2(gmstknn, color = "authors",  palette = "Set2", label = "Title", label.trim = 20, label.alpha = 0.75, label.size = 2.5, node.size = 8, layout.exp = 0.5, label.dist = 3)
 #dev.off()
