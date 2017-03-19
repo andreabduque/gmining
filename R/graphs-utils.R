@@ -57,6 +57,11 @@ create_nodes <- function(book_content){
 create_edge_list <- function(corpus_element) {
   #computing unique words in book
   book_content <- get_book_content(corpus_element)
+  #Concatenate if its a list of paragraphs
+  if(len(book_content) > 1){
+    book_content <- paste(book_content, collapse = ' ')
+  }
+
   book_tokens <- tokenize_words(book_content)[[1]]
   #computing graph nodes
   nodes <- create_nodes(book_content)
