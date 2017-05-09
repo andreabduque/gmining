@@ -18,7 +18,7 @@ all_files <- lapply(shc_metadata$filenumber, function(x) {
 all_tokens <- mclapply(all_files, function(x){
                 if(file.exists(x)){
                   doc <- xmlInternalTreeParse(x)
-                  tokens <- xpathApply(doc, "//*[@lemma]", xmlGetAttr, "lemma")
+                  # tokens <- xpathApply(doc, "//*[@lemma]", xmlGetAttr, "lemma")
                 }
                 else{
                   tokens <- NULL
