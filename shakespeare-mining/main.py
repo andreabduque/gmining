@@ -12,8 +12,14 @@ corpusMeta, corpusFiles = corpus.getCorpus()
 feature = View(corpusMeta, corpusFiles)
 
 #Term Document Matrices
-feature.createTDM(featureType='lemma', stopWords=True)
-feature.createTDM(featureType='lemma', stopWords=False)
+# feature.createTDM(featureType='lemma', stopWords=True)
+# feature.createTDM(featureType='lemma', stopWords=False)
+#
+# feature.createTDM(featureType='standard', stopWords=True)
+# feature.createTDM(featureType='standard', stopWords=False)
 
-feature.createTDM(featureType='standard', stopWords=True)
-feature.createTDM(featureType='standard', stopWords=False)
+feature.createFDM(featureType='lemma', stopWords=True)
+feature.createFDM(featureType='lemma', stopWords=False)
+
+feature.createFDM(featureType='standard', stopWords=True)
+feature.createFDM(featureType='standard', stopWords=False)

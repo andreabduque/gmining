@@ -2,6 +2,8 @@ import pandas as pd
 import textmining as tm
 import os.path
 from nltk.corpus import stopwords
+import motif
+import numpy as np
 
 class View:
     def __init__(self, corpusMeta, corpusFiles):
@@ -43,8 +45,35 @@ class View:
         print('tdm finished.')
 
 
-    def createFDM(self):
-        pass
+    def createFDM(self, featureType='lemma', stopWords=True):
+        fdm = np.empty((len(self.corpus), 13))
+        for i, file in enumerate(self.corpus):
+            if(os.path.isfile(file)):
+
+                tokens = pd.read_csv(file, sep=',')[featureType].tolist()
+                #convert to lower case, keep nan untouched
+                tokens = [x.lower() if not isinstance(x, float) else x for x in tokens]
+
+                fdm[i,:] = np.array(motif.getBookMotifFrequency(tokens))
+
+                # remove stop words if desired
+                if(not stopWords):
+                    tokens = [item for item in tokens if item not in self.stop]
+
+                print('file ' + str(i))
+            else:
+                print('error with ' + file)
+
+
+
+        if(stopWords):
+            fdmFile = featureType +'FDM.csv'
+        else:
+            fdmFile = featureType + 'NotStopwords' + 'FDM.csv'
+
+        np.savetxt(fdmFile, fdm, delimiter=",")
+        print('fdm finished.')
+
 
     def getTDM(self):
         return []
