@@ -1,0 +1,236 @@
+,author,creation date,defect_rate,filenumber,genre,title
+0,"Shakespeare, William",1606,,Ant,TR,Antony and Cleopatra
+1,"Shakespeare, William",1598,,AYL,CO,As You Like It
+2,"Shakespeare, William",1611,,Tmp,CO,The Tempest
+3,"Shakespeare, William",1603,,AWW,CO,All's Well That Ends Well
+4,"Shakespeare, William",1592,,Err,CO,The Comedy of Errors
+7,"Shakespeare, William",1595,,Rom,TR,Romeo and Juliet
+8,"Shakespeare, William",1599,,H5,HI,Henry V
+10,"Shakespeare, William",1609,,WT,CO,The Winter's Tale
+11,"Shakespeare, William",1591,,R3,HI,Richard III
+12,"Shakespeare, William",1608,,Cor,TR,Coriolanus
+14,"Shakespeare, William",1590,,Shr,CO,The Taming of the Shrew
+16,"Shakespeare, William",1591,,3H6,HI,3 Henry VI
+17,"Shakespeare, William",1600,,Ham,TR,Hamlet
+18,"Shakespeare, William",1610,,Cym,TR,Cymbeline
+19,"Shakespeare, William",1591,,2H6,HI,2 Henry VI
+20,"Shakespeare, William",1597,,Wiv,CO,The Merry Wives of Windsor
+22,"Shakespeare, William",1595,,MND,CO,A Midsummer Night's Dream
+24,"Shakespeare, William",1590,,TGV,CO,The Two Gentlemen of Verona
+25,"Shakespeare, William",1597,,2H4,HI,2 Henry IV
+26,"Shakespeare, William",1595,,R2,HI,Richard II
+27,"Shakespeare, William",1599,,JC,TR,Julius Caesar
+28,"Shakespeare, William",1605,,Lr,TR,King Lear
+29,"Shakespeare, William",1596,,MV,CO,The Merchant of Venice
+30,"Shakespeare, William",1597,,1H4,HI,1 Henry IV
+31,"Shakespeare, William",1598,,Ado,CO,Much Ado About Nothing
+32,"Shakespeare, William",1602,,Tro,TR,Troilus and Cressida
+33,"Shakespeare, William",1601,,TN,CO,Twelfth Night
+34,"Shakespeare, William",1594,,LLL,CO,Love's Labours Lost
+35,"Shakespeare, William",1603,,Oth,TR,Othello
+43,"Fletcher, John",1608,0.87,A00962,TC,The Faithful Shepherdess 
+45,"Fletcher, John",1624,0.55,A00967,CO,Rule a Wife and Have a Wife 
+48,"Ford, John",1630,1.65,A01046,TR,The Broken Heart 
+49,"Ford, John",1633,1.23,A01047,HI,Perkin Warbeck 
+50,"Ford, John",1635,0.0,A01049,CO,The Fancies Chaste and Noble 
+51,"Ford, John",1638,0.17,A01052,CO,The Lady's Trial 
+52,"Ford, John",1628,0.05,A01055,CO,The Lover's Melancholy 
+53,"Ford, John",1632,0.39,A01056,TR,Love's Sacrifice 
+54,"Ford, John",1631,0.29,A01057,TR,'Tis Pity She's a Whore 
+65,"Glapthorne, Henry",1639,0.47,A01772,TC,Argalus and Parthenia 
+66,"Glapthorne, Henry",1640,0.53,A01773,CO,The Hollander
+67,"Glapthorne, Henry",1640,0.0,A01775,TC,The Ladies' Privilege 
+68,"Glapthorne, Henry",1639,0.03,A01777,TR,Albertus Wallenstein 
+69,"Glapthorne, Henry",1640,0.4,A01779,CO,Wit in a Constable 
+72,"Chapman, George",1602,1.12,A01911,CO,Sir Giles Goosecap 
+74,"Greene, Robert",1591,0.0,A02070,CO,"George a Green, the Pinner of Wakefield "
+75,"Greene, Robert",1587,0.59,A02091,CO,"Alphonsus, King of Aragon "
+76,"Greene, Robert",1591,0.03,A02125,HI,Orlando Furioso 
+77,"Greene, Robert",1589,0.02,A02128,CO,Friar Bacon and Friar Bongay 
+78,"Greene, Robert",1590,0.1,A02168,HI,The Scottish History of James the Fourth 
+87,"Heywood, Thomas",1611,0.47,A03189,TC,The Brazen Age 
+88,"Heywood, Thomas",1635,0.6,A03190,CO,A Challenge for Beauty 
+89,"Heywood, Thomas",1627,0.16,A03195,CO,The English Traveller 
+90,"Heywood, Thomas",1602,0.0,A03197,CO,The Fair Maid of the Exchange 
+91,"Heywood, Thomas",1631,1.1,A03201_01,CO,1 The Fair Maid of the West
+92,"Heywood, Thomas",1631,1.42,A03201_02,CO,2 The Fair Maid of the West
+93,"Heywood, Thomas",1594,0.7,A03202,TC,The Four Prentices of London 
+94,"Heywood, Thomas",1610,0.03,A03205,TC,"The Golden Age, or The Lives of Jupiter and Saturn"
+95,"Heywood, Thomas",1604,0.0,A03208,HI,"1 If You Know Not Me You Know Nobody, or The Troubles of Queen Elizabeth"
+96,"Heywood, Thomas",1605,0.01,A03217,HI,2 If You Know Not Me You Know Nobody (The Second Part of Queen Elizabeth's Troubles)
+97,"Heywood, Thomas",1612,0.81,A03223_01,TC,1 The Iron Age
+98,"Heywood, Thomas",1612,0.43,A03223_02,TC,2 The Iron Age
+99,"Heywood, Thomas",1599,0.83,A03224_01,HI,1 Edward IV
+100,"Heywood, Thomas",1599,0.32,A03224_02,HI,2 Edward IV
+105,"Heywood, Thomas",1607,0.67,A03244,TR,The Rape of Lucrece 
+106,"Heywood, Thomas",1602,0.43,A03248,TC,The Royal King and the Loyal Subject 
+107,"Heywood, Thomas",1604,1.01,A03255,CO,The Wise Woman of Hogsdon 
+108,"Heywood, Thomas",1603,0.75,A03256,TR,A Woman Killed with Kindness 
+110,"Marston, John",1610,0.06,A03405,CO,"Histriomastix, or The Player Whipped "
+122,"Jonson, Ben",1598,0.1,A04632_01,CO,Every Man in His Humour
+123,"Jonson, Ben",1600,0.13,A04632_03,CO,Cynthia's Revels
+124,"Jonson, Ben",1601,0.06,A04632_04,CO,Poetaster
+125,"Jonson, Ben",1604,0.03,A04632_05,TR,Sejanus His Fall
+126,"Jonson, Ben",1607,0.04,A04632_06,CO,Volpone
+127,"Jonson, Ben",1612,0.03,A04632_08,CO,The Alchemist
+128,"Jonson, Ben",1611,0.05,A04632_09,TR,Catiline His Conspiracy 
+130,"Jonson, Ben",1614,0.11,A04633_01,CO,Bartholomew Fair 
+131,"Jonson, Ben",1614,0.18,A04633_03,CO,The Staple of News
+133,"Jonson, Ben",1597,0.07,A04638,CO,The Case Is Altered 
+136,"Jonson, Ben",1610,0.07,A04645,CO,"Epicoene, or The Silent Woman"
+137,"Jonson, Ben",1599,0.28,A04648,CO,Every Man Out of His Humour
+142,"Jonson, Ben",1629,0.71,A04658,CO,The New Inn
+165,"Lyly, John",1583,0.09,A06583,CO,"Campaspe (Alexander, Campaspe, and Diogenes) "
+166,"Lyly, John",1591,0.01,A06589,CO,Endymion
+167,"Lyly, John",1584,0.01,A06619,CO,Gallathea 
+168,"Lyly, John",1590,0.49,A06620,TC,Love's Metamorphosis 
+169,"Lyly, John",1589,0.02,A06621,CO,Midas
+170,"Lyly, John",1591,0.05,A06622,CO,Mother Bombie
+171,"Lyly, John",1584,0.01,A06625,CO,Sappho and Phao 
+172,"Lyly, John",1593,0.01,A06629,CO,The Woman in the Moon 
+176,"Marlowe, Christopher",1589,0.44,A06991,TR,The Jew of Malta 
+177,"Marlowe, Christopher",1593,0.05,A07003,TR,The Massacre at Paris 
+178,"Marlowe, Christopher",1587,0.04,A07004_01,TR,1 Tamburlaine
+179,"Marlowe, Christopher",1587,0.04,A07004_02,TR,2 Tamburlaine
+180,"Marlowe, Christopher",1592,1.04,A07009,TR,Dr. Faustus
+181,"Marlowe, Christopher",1592,0.0,A07018,HI,Edward the Second 
+185,"Marston, John",1599,0.04,A07063,TC,Antonio and Mellida 
+186,"Marston, John",1600,0.0,A07064,TR,Antonio's Revenge
+187,"Marston, John",1605,0.93,A07065,CO,The Dutch Courtesan
+190,"Marston, John",1604,0.03,A07077,CO,"Parasitaster, or The Fawn "
+191,"Marston, John",1601,0.0,A07081,CO,What You Will 
+192,"Marston, John",1605,0.09,A07083,TR,"The Wonder of Women, or Sophonisba "
+194,"Massinger, Philip",1623,0.01,A07234,CO,The Bondman
+195,"Massinger, Philip",1621,0.04,A07237,TR,The Duke of Milan 
+196,"Massinger, Philip",1631,0.99,A07238,TC,The Emperor of the East 
+197,"Massinger, Philip",1627,0.0,A07239,TC,The Great Duke of Florence 
+198,"Massinger, Philip",1621,2.0,A07240,CO,The Maid of Honour
+199,"Massinger, Philip",1626,0.01,A07241,CO,A New Way to Pay Old Debts 
+200,"Massinger, Philip",1629,0.89,A07245,TC,The Picture 
+201,"Massinger, Philip",1624,0.38,A07246,CO,"The Renegado, or The Gentleman of Venice "
+202,"Massinger, Philip",1626,1.28,A07247,TR,The Roman Actor 
+203,"Massinger, Philip",1624,1.04,A07248,TR,The Unnatural Combat 
+211,"Dekker, Thomas",1601,0.03,A07492,CO,"Blurt, Master Constable"
+212,"Middleton, Thomas",1613,0.02,A07493,CO,A Chaste Maid in Cheapside 
+213,"Middleton, Thomas",1608,0.01,A07495,CO,The Family of Love 
+214,"Middleton, Thomas",1624,0.05,A07498,TC,A Game at Chess 
+217,"Middleton, Thomas",1606,0.02,A07504,CO,"A Mad World, My Masters "
+218,"Middleton, Thomas",1606,0.32,A07505,CO,Michaelmas Term 
+219,"Middleton, Thomas",1607,0.03,A07507,CO,The Phoenix 
+220,"Middleton, Thomas",1605,0.05,A07511,CO,A Trick to Catch the Old One 
+243,"Peele, George",1584,1.68,A09220,TC,The Arraignment of Paris 
+244,"Peele, George",1588,0.02,A09221,HI,The Battle of Alcazar 
+246,"Peele, George",1591,1.5,A09224,HI,Edward the First 
+247,"Peele, George",1594,0.01,A09228,TR,David and Fair Bathsheba 
+248,"Peele, George",1590,0.0,A09232,CO,The Old Wives Tale
+255,"Dekker, Thomas",1634,0.8,A11145,TR,"The Noble Spanish Soldier (The Noble Soldier, or A Contract Broken Justly Revenged) "
+263,"Middleton, Thomas",1607,0.72,A11264,CO,"The Puritan, or The Widow of Watling Street "
+267,"Seneca, Lucius Annaeus",1561,0.21,A11909_01,TR,Hercules Furens
+268,"Seneca, Lucius Annaeus",1560,0.21,A11909_02,TR,Thyestes
+269,"Seneca, Lucius Annaeus",1562,0.33,A11909_03,TR,Thebais
+270,"Seneca, Lucius Annaeus",1567,0.59,A11909_04,TR,Hippolytus
+271,"Seneca, Lucius Annaeus",1581,0.54,A11909_05,TR,Oedipus
+272,"Seneca, Lucius Annaeus",1558,0.19,A11909_06,TR,Troas
+273,"Seneca, Lucius Annaeus",1566,0.26,A11909_07,TR,Medea
+274,"Seneca, Lucius Annaeus",1566,0.37,A11909_08,TR,Agamemnon
+275,"Seneca, Lucius Annaeus",1566,0.2,A11909_09,TR,Octavia
+276,"Seneca, Lucius Annaeus",1566,0.36,A11909_10,TR,Hercules Oetaeus
+282,"Shirley, James",1633,0.3,A12128,CO,The Bird in a Cage (The Beauties) 
+283,"Shirley, James",1632,0.01,A12129,CO,"Changes, or Love in a Maze "
+284,"Shirley, James",1638,0.31,A12130,CO,The Constant Maid 
+285,"Shirley, James",1631,0.46,A12131,TC,The Contention for Honor and Riches (Honoria and Mammon) 
+286,"Shirley, James",1635,0.46,A12133,CO,The Coronation 
+287,"Shirley, James",1636,0.03,A12135,CO,The Duke's Mistress 
+288,"Shirley, James",1634,0.08,A12136,CO,The Example 
+289,"Shirley, James",1633,0.02,A12137,CO,The Gamester 
+290,"Shirley, James",1629,1.18,A12138,CO,The Grateful Servant 
+291,"Shirley, James",1632,1.11,A12140,CO,Hyde Park 
+292,"Shirley, James",1631,0.02,A12141,CO,The Humorous Courtier 
+293,"Shirley, James",1635,0.11,A12142,CO,The Lady of Pleasure 
+294,"Shirley, James",1631,0.05,A12143,TR,Love's Cruelty 
+295,"Shirley, James",1626,0.49,A12145,TR,The Maid's Revenge 
+296,"Shirley, James",1634,0.09,A12148,TR,The Opportunity 
+297,"Shirley, James",1640,0.19,A12149,TC,The Arcadia 
+298,"Shirley, James",1637,0.8,A12150,CO,The Royal Master 
+299,"Shirley, James",1639,0.46,A12151,CO,1 Saint Patrick for Ireland 
+300,"Shirley, James",1625,0.08,A12152,CO,The School of Compliment  
+301,"Shirley, James",1631,0.28,A12154,TR,The Traitor 
+302,"Shirley, James",1626,0.97,A12155,CO,The Wedding 
+303,"Shirley, James",1628,0.07,A12157,CO,The Witty Fair One 
+344,"Brome, Richard",1640,0.03,A16923,CO,The Antipodes
+345,"Brome, Richard",1632,1.97,A16924,CO,The Northern Lass 
+346,"Brome, Richard",1635,0.27,A16927,CO,The Sparagus Garden (Tom Hoydon o' Tanton Deane)
+354,"Chapman, George",1601,1.11,A18400,CO,All Fools 
+355,"Chapman, George",1596,1.29,A18402,CO,The Blind Beggar of Alexandria
+356,"Chapman, George",1604,0.01,A18403,TR,Bussy D'Ambois 
+357,"Chapman, George",1608,0.22,A18404_01,TR,The Conspiracy  of Charles Duke of Byron 
+358,"Chapman, George",1608,0.22,A18404_02,TR,The  Tragedy of Charles Duke of Byron 
+360,"Chapman, George",1602,1.9,A18413,CO,The Gentleman Usher
+361,"Chapman, George",1602,0.28,A18415,CO,May Day
+363,"Chapman, George",1597,1.14,A18419,CO,An Humorous Day's Mirth
+364,"Chapman, George",1610,0.47,A18421,TR,The Revenge of Bussy D'Ambois
+365,"Chapman, George",1619,1.14,A18423,CO,Two Wise Men and All the Rest Fools 
+366,"Chapman, George",1605,0.14,A18425,TR,Caesar and Pompey (The Wars of Caesar and Pompey) 
+367,"Chapman, George",1604,0.0,A18426,CO,The Widow's Tears
+368,"Shirley, James",1632,0.0,A18427,CO,The Ball 
+373,"Heywood, Thomas",1602,0.07,A19183,CO,How a Man May Choose a Good Wife from a Bad 
+399,"Dekker, Thomas",1605,0.03,A20065,CO,2 The Honest Whore
+400,"Dekker, Thomas",1611,1.3,A20066,CO,"If It Be Not Good, the Devil Is in It"
+401,"Dekker, Thomas",1599,0.04,A20076,CO,Old Fortunatus 
+403,"Dekker, Thomas",1601,1.24,A20081,CO,"Satiromastix, or The Untrussing of the Humorous Poet "
+404,"Dekker, Thomas",1599,0.02,A20083,CO,The Shoemaker's Holiday
+405,"Dekker, Thomas",1611,0.01,A20088,CO,Match Me in London 
+406,"Dekker, Thomas",1631,0.08,A20093,CO,The Wonder of A Kingdom 
+411,"Marston, John",1600,0.03,A20867,CO,Jack Drum's Entertainment
+419,"Fletcher, John",1617,0.07,A27177_01,TC,The Mad Lover
+428,"Fletcher, John",1617,0.0,A27177_10,CO,The Chances
+429,"Fletcher, John",1618,0.01,A27177_11,TC,The Loyal Subject
+430,"Ford, John",1619,0.05,A27177_12,TC,The Laws of Candy
+432,"Fletcher, John",1621,0.0,A27177_14,TC,The Island Princess
+433,"Fletcher, John",1619,0.0,A27177_15,CO,"The Humorous Lieutenant (Generous Enemies, Demetrius and Enanthe)"
+437,"Fletcher, John",1613,0.06,A27177_19,TR,Bonduca 
+440,"Fletcher, John",1621,0.02,A27177_22,CO,The Pilgrim
+442,"Fletcher, John",1611,0.02,A27177_24,CO,"The Woman's Prize, or The Tamer Tamed"
+446,"Fletcher, John",1620,0.01,A27177_28,TC,Women Pleased
+447,"Fletcher, John",1624,0.03,A27177_29,TC,A Wife for a Month
+449,"Fletcher, John",1614,0.0,A27177_31,TR,Valentinian
+453,"Fletcher, John",1621,0.0,A27203,CO,The Wild Goose Chase 
+457,"Brome, Richard",1641,0.01,A29637,CO,"A Jovial Crew, or The Merry Beggars "
+458,"Brome, Richard",1657,0.03,A29644,CO,The Queen's Exchange (The Royal Exchange) 
+460,"Glapthorne, Henry",1640,0.71,A31672,TR,Revenge for Honor (The Parricide) 
+468,"Jonson, Ben",1616,0.25,A46228,CO,The Devil Is an Ass 
+469,"Middleton, Thomas",1616,0.01,A46230,CO,The Widow 
+475,"Massinger, Philip",1632,0.05,A50090,CO,The City Madam 
+477,"Massinger, Philip",1636,0.0,A50093_01,TC,The Bashful Lober
+478,"Massinger, Philip",1633,0.0,A50093_02,CO,The Guardian
+480,"Middleton, Thomas",1621,0.0,A50787,CO,Anything for a Quiet Life
+482,"Middleton, Thomas",1618,0.06,A50793,CO,The Mayor of Quinborough
+483,"Middleton, Thomas",1615,0.01,A50799_01,CO,More Dissemblers Beside Women
+484,"Middleton, Thomas",1621,0.01,A50799_02,TR,Women Beware Women
+489,"Cavendish, Margaret",1662,0.01,A53060_03,CO,Several Wits
+496,"Cavendish, Margaret",1662,0.05,A53060_10,TR,The Unnatural Tragedy
+498,"Cavendish, Margaret",1662,0.07,A53060_12,CO,1 The Matrimonial Trouble
+499,"Cavendish, Margaret",1662,0.06,A53060_13,TC,2 The Matrimonial Trouble
+503,"Cavendish, Margaret",1662,0.03,A53060_17,CO,The Comical Hash
+506,"Cavendish, Margaret",1662,0.07,A53060_20,CO,A Comedy of the Apocryphal Ladies
+510,"Ford, John",1628,0.46,A56872,TC,The Queen
+513,"Shirley, James",1639,0.04,A59979,CO,The Gentleman of Venice 
+514,"Shirley, James",1639,0.01,A59990,TR,The Politician 
+515,"Shirley, James",1640,0.45,A59992_04,TC,The Impostor
+516,"Shirley, James",1642,0.28,A59992_06,TC,The Court Secret
+521,"Greene, Robert",1591,2.53,A68114,TR,The Tragical Reign of Selimus
+523,"Middleton, Thomas",1607,0.74,A68468,CO,Your Five Gallants
+527,"Chapman, George",1605,0.37,A69093,CO,Monsieur D'Olive 
+528,"Peele, George",1599,0.34,A69121,HI,Clyomon and Clamydes 
+532,"Brome, Richard",1632,0.22,A77565_01,CO,A Mad Couple Well Matched
+533,"Brome, Richard",1639,0.37,A77565_02,CO,The Novella
+534,"Brome, Richard",1637,0.2,A77565_04,CO,"The City Wit, or The Woman Wears the Breeches"
+535,"Brome, Richard",1632,0.21,A77567_01,CO,"The English Moor, or The Mock Marriage"
+536,"Brome, Richard",1635,0.11,A77567_02,TC,"The Lovesick Court, or The Ambitious Politic"
+537,"Brome, Richard",1635,0.12,A77567_03,CO,"The Weeding of the Covent Garden, or The Middlesex Justice of Peace"
+538,"Brome, Richard",1659,0.23,A77567_04,CO,The New Academy or The New Exchange
+539,"Brome, Richard",1659,0.04,A77567_05,TC,The Queen and Concubine
+542,"Shirley, James",1652,0.11,A93166,CO,The Brothers
+543,"Shirley, James",1641,0.07,A93167,TR,The Cardinal 
+544,"Shirley, James",1638,0.11,A93170,TC,The Doubtful Heir 
+545,"Shirley, James",1642,0.09,A93178,CO,The Sisters 

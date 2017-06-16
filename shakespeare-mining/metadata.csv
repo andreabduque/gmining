@@ -1,0 +1,548 @@
+author,creation date,defect_rate,filenumber,genre,title
+"Shakespeare, William",1606,,Ant,TR,Antony and Cleopatra
+"Shakespeare, William",1598,,AYL,CO,As You Like It
+"Shakespeare, William",1611,,Tmp,CO,The Tempest
+"Shakespeare, William",1603,,AWW,CO,All's Well That Ends Well
+"Shakespeare, William",1592,,Err,CO,The Comedy of Errors
+"Shakespeare, William; Peele, George",1592,,Tit,TR,Titus Andronicus
+"Shakespeare, William; Middleton, Thomas",1606,,Mac,TR,Macbeth
+"Shakespeare, William",1595,,Rom,TR,Romeo and Juliet
+"Shakespeare, William",1599,,H5,HI,Henry V
+"Shakespeare, William; Middleton, Thomas",1603,,MM,CO,Measure for Measure
+"Shakespeare, William",1609,,WT,CO,The Winter's Tale
+"Shakespeare, William",1591,,R3,HI,Richard III
+"Shakespeare, William",1608,,Cor,TR,Coriolanus
+anon.,1591,,Jn,HI,1 The Troublesome Reign of King John
+"Shakespeare, William",1590,,Shr,CO,The Taming of the Shrew
+"Shakespeare, William; Middleton, Thomas",1605,,Tim,TR,Timon of Athens
+"Shakespeare, William",1591,,3H6,HI,3 Henry VI
+"Shakespeare, William",1600,,Ham,TR,Hamlet
+"Shakespeare, William",1610,,Cym,TR,Cymbeline
+"Shakespeare, William",1591,,2H6,HI,2 Henry VI
+"Shakespeare, William",1597,,Wiv,CO,The Merry Wives of Windsor
+"Shakespeare, William; Fletcher, John",1613,,H8,HI,Henry VIII
+"Shakespeare, William",1595,,MND,CO,A Midsummer Night's Dream
+"Shakespeare, William; Wilkins, George",1606,,Per,TC,Pericles
+"Shakespeare, William",1590,,TGV,CO,The Two Gentlemen of Verona
+"Shakespeare, William",1597,,2H4,HI,2 Henry IV
+"Shakespeare, William",1595,,R2,HI,Richard II
+"Shakespeare, William",1599,,JC,TR,Julius Caesar
+"Shakespeare, William",1605,,Lr,TR,King Lear
+"Shakespeare, William",1596,,MV,CO,The Merchant of Venice
+"Shakespeare, William",1597,,1H4,HI,1 Henry IV
+"Shakespeare, William",1598,,Ado,CO,Much Ado About Nothing
+"Shakespeare, William",1602,,Tro,TR,Troilus and Cressida
+"Shakespeare, William",1601,,TN,CO,Twelfth Night
+"Shakespeare, William",1594,,LLL,CO,Love's Labours Lost
+"Shakespeare, William",1603,,Oth,TR,Othello
+"Shakespeare, William; Nashe, Thomas",1592,,1H6,HI,1 Henry VI
+"Bower, Richard",1575,0.29,A00456,TC,Appius and Virginia
+"Field, Nathan",1618,0.51,A00723,CO,Amends for Ladies 
+"Field, Nathan",1612,0.07,A00725,CO,A Woman Is a Weathercock 
+"Fisher, Jasper",1633,0.0,A00760,HI,Fuimus Troes (The True Trojans) 
+"Fletcher, John; Massinger, Philip; Chapman, George (?); Field, Nathan (?); Jonson, Ben (?)",1617,0.48,A00959,TR,"The Bloody Brother (Rollo, Duke of Normandy)"
+"Fletcher, John; Massinger, Philip",1625,0.03,A00960,CO,The Elder Brother 
+"Fletcher, John",1608,0.87,A00962,TC,The Faithful Shepherdess 
+"Fletcher, John; Shirley, James",1611,0.01,A00966,CO,"The Night Walker, or The Little Thief "
+"Fletcher, John",1624,0.55,A00967,CO,Rule a Wife and Have a Wife 
+"Beaumont, Francis; Fletcher, John; Massinger, Philip",1617,0.01,A00968,TR,Thierry and Theodoret 
+"Fletcher, Phineas",1631,,A00979,CO,Sicelides 
+"Ford, John",1630,1.65,A01046,TR,The Broken Heart 
+"Ford, John",1633,1.23,A01047,HI,Perkin Warbeck 
+"Ford, John",1635,0.0,A01049,CO,The Fancies Chaste and Noble 
+"Ford, John",1638,0.17,A01052,CO,The Lady's Trial 
+"Ford, John",1628,0.05,A01055,CO,The Lover's Melancholy 
+"Ford, John",1632,0.39,A01056,TR,Love's Sacrifice 
+"Ford, John",1631,0.29,A01057,TR,'Tis Pity She's a Whore 
+"Freeman, Sir Ralph",1639,0.08,A01253,TR,Imperiale 
+"Fulwell, Ulpian",1568,,A01353,,Like Will to Like 
+anon.,1630,,A01425,,"Wine, Beer, and Ale Together by the Ears"
+"Garnier, Robert",1594,0.03,A01500,TR,Cornelia
+"Garnier, Robert",1590,0.04,A01502,TR,Antonius
+B. G. (?),1578,,A01506,,The Entertainment at Norwich 
+"Garter, Thomas",1578,0.35,A01509,CO,The Most Virtuous and Godly Susanna 
+"Ariosto, Ludovico",1566,0.17,A01513_01,CO,Supposes
+"Dolce, Ludovico",1566,0.29,A01513_02,TR,Jocasta
+"Gascoigne, George",1575,0.76,A01520,TR,The Glass of Government 
+"Glapthorne, Henry",1639,0.47,A01772,TC,Argalus and Parthenia 
+"Glapthorne, Henry",1640,0.53,A01773,CO,The Hollander
+"Glapthorne, Henry",1640,0.0,A01775,TC,The Ladies' Privilege 
+"Glapthorne, Henry",1639,0.03,A01777,TR,Albertus Wallenstein 
+"Glapthorne, Henry",1640,0.4,A01779,CO,Wit in a Constable 
+"Goffe, Thomas",1617,0.04,A01840,TR,Orestes 
+"Gomersall, Robert",1628,0.43,A01853,TR,Lodovick Sforza 
+"Chapman, George",1602,1.12,A01911,CO,Sir Giles Goosecap 
+"Gough, John",1640,0.39,A01989,TC,The Strange Discovery
+"Greene, Robert",1591,0.0,A02070,CO,"George a Green, the Pinner of Wakefield "
+"Greene, Robert",1587,0.59,A02091,CO,"Alphonsus, King of Aragon "
+"Greene, Robert",1591,0.03,A02125,HI,Orlando Furioso 
+"Greene, Robert",1589,0.02,A02128,CO,Friar Bacon and Friar Bongay 
+"Greene, Robert",1590,0.1,A02168,HI,The Scottish History of James the Fourth 
+"Greville, Fulke",1600,0.01,A02226_04,TR,Alaham
+"Greville, Fulke",1596,0.0,A02227,TR,Mustapha
+"Grotius, Hugo",1640,0.0,A02262,TR,Christ's Passion
+"Habington, William",1640,0.01,A02455,TC,The Queen of Aragon
+"Harding, Samuel",1640,0.01,A02629,TR,Sicily and Naples
+"Dekker, Thomas; Webster, John; Harrison, Stephen",1604,,A02732,,Arches of Triumph
+"Haughton, William",1595,0.03,A02800,CO,Englishmen for my Money
+"Hawkins, William",1627,3.05,A02827,CO,Apollo Shroving 
+"Heywood, Thomas",1611,0.47,A03189,TC,The Brazen Age 
+"Heywood, Thomas",1635,0.6,A03190,CO,A Challenge for Beauty 
+"Heywood, Thomas",1627,0.16,A03195,CO,The English Traveller 
+"Heywood, Thomas",1602,0.0,A03197,CO,The Fair Maid of the Exchange 
+"Heywood, Thomas",1631,1.1,A03201_01,CO,1 The Fair Maid of the West
+"Heywood, Thomas",1631,1.42,A03201_02,CO,2 The Fair Maid of the West
+"Heywood, Thomas",1594,0.7,A03202,TC,The Four Prentices of London 
+"Heywood, Thomas",1610,0.03,A03205,TC,"The Golden Age, or The Lives of Jupiter and Saturn"
+"Heywood, Thomas",1604,0.0,A03208,HI,"1 If You Know Not Me You Know Nobody, or The Troubles of Queen Elizabeth"
+"Heywood, Thomas",1605,0.01,A03217,HI,2 If You Know Not Me You Know Nobody (The Second Part of Queen Elizabeth's Troubles)
+"Heywood, Thomas",1612,0.81,A03223_01,TC,1 The Iron Age
+"Heywood, Thomas",1612,0.43,A03223_02,TC,2 The Iron Age
+"Heywood, Thomas",1599,0.83,A03224_01,HI,1 Edward IV
+"Heywood, Thomas",1599,0.32,A03224_02,HI,2 Edward IV
+"Heywood, Thomas",1634,,A03235,,Love's Mistress
+"Heywood, Thomas",1637,,A03241_19,,Jupiter and Io
+"Heywood, Thomas",1635,,A03241_20,,Apollo and Daphne
+"Heywood, Thomas",1635,,A03241_21,,Amphrisa
+"Heywood, Thomas",1607,0.67,A03244,TR,The Rape of Lucrece 
+"Heywood, Thomas",1602,0.43,A03248,TC,The Royal King and the Loyal Subject 
+"Heywood, Thomas",1604,1.01,A03255,CO,The Wise Woman of Hogsdon 
+"Heywood, Thomas",1603,0.75,A03256,TR,A Woman Killed with Kindness 
+"Heywood, Thomas; Brome, Richard",1634,0.77,A03258,CO,The Late Lancashire Witches 
+"Marston, John",1610,0.06,A03405,CO,"Histriomastix, or The Player Whipped "
+anon.,1615,0.0,A03424,CO,"Band, Cuff, and Ruff, or Exchange Ware at the Second Hand "
+"Holiday, Barten",1618,0.06,A03496,CO,"Technogamia, or The Marriages of the Arts "
+"Hughes, Thomas",1588,,A03804,,The Misfortunes of Arthur
+anon.,1553,,A04206,,Jacob and Esau 
+anon.,1591,0.01,A04520_01,HI,1 Troublesome Reign of King John
+anon.,1591,0.02,A04520_02,HI,2 Troublesome Reign of King John
+"Barnes, Barnabe",1607,1.81,A04539,TR,The Devil's Charter
+"Davenant, William ",1638,,A04599,,Britannia Triumphans 
+"Davenant, William ",1634,,A04600,,The Temple of Love 
+"Jones, John",1635,0.0,A04604,TC,Adrasta
+"Jonson, Ben",1616,,A04632_00,,Preface to Jonson's Works
+"Jonson, Ben",1598,0.1,A04632_01,CO,Every Man in His Humour
+"Jonson, Ben",1600,0.13,A04632_03,CO,Cynthia's Revels
+"Jonson, Ben",1601,0.06,A04632_04,CO,Poetaster
+"Jonson, Ben",1604,0.03,A04632_05,TR,Sejanus His Fall
+"Jonson, Ben",1607,0.04,A04632_06,CO,Volpone
+"Jonson, Ben",1612,0.03,A04632_08,CO,The Alchemist
+"Jonson, Ben",1611,0.05,A04632_09,TR,Catiline His Conspiracy 
+"Jonson, Ben",1604,,A04632_13,,The Entertainment of the Queen and Prince at Althorp (The Satyr)
+"Jonson, Ben",1614,0.11,A04633_01,CO,Bartholomew Fair 
+"Jonson, Ben",1614,0.18,A04633_03,CO,The Staple of News
+"Jonson, Ben",1603,,A04637_01,,King James his Royal and Magnificent Entertainment through his Honorable City of London
+"Jonson, Ben",1597,0.07,A04638,CO,The Case Is Altered 
+"Jonson, Ben",1608,,A04643,,The Characters of Two Royal Masques 
+"Jonson, Ben",1631,,A04644,,Chloridia
+"Jonson, Ben",1610,0.07,A04645,CO,"Epicoene, or The Silent Woman"
+"Jonson, Ben",1599,0.28,A04648,CO,Every Man Out of His Humour
+"Jonson, Ben",1625,,A04652,,The Fortunate Isles and Their Union 
+"Jonson, Ben",1606,,A04654,,Hymenaei
+"Jonson, Ben",1631,,A04655,,Love's Triumph Through Callipolis 
+"Jonson, Ben",1624,,A04656,,Neptune's Triumph for the Return of Albion 
+"Jonson, Ben",1629,0.71,A04658,CO,The New Inn
+"Killigrew, Henry",1638,0.02,A04824,TR,The Conspiracy
+"Kirke, John",1638,,A04874,,The Seven Champions of Christendom 
+"Barry, Lording",1608,0.04,A04881,CO,Ram Alley
+anon.,1592,0.4,A04888,CO,A Knack to Know a Knave 
+"Knevet, Ralph",1631,0.03,A04896,CO,Rhodon and Iris 
+anon.,1600,0.24,A04941,HI,"1 Jeronimo, with the Wars of Portugal "
+"Kyd, Thomas",1587,0.58,A04942,TR,The Spanish Tragedy
+"Kynaston, Francis (?) ",1635,,A04959,,Corona Minervae 
+anon.,1589,0.02,A05206,TR,King Leir and his Three Daughters
+"Beaumont, Francis",1613,,A06150,,The Masque of the Inner Temple and Gray's Inn
+"Beaumont, Francis; Fletcher, John",1608,0.0,A06177,TR,Cupid's Revenge 
+"Lodge, Thomas",1588,0.39,A06184,TR,The Wounds of Civil War
+"Beaumont, Francis; Fletcher, John",1619,0.28,A06207,TC,A King and No King 
+"Beaumont, Francis",1607,0.0,A06252,CO,The Knight of the Burning Pestle
+anon.,1602,0.45,A06270,HI,"A Larum for London, or The Siege of Antwerp "
+"Beaumont, Francis; Fletcher, John",1611,0.55,A06289,TR,The Maid's Tragedy 
+"Beaumont, Francis; Fletcher, John",1609,0.0,A06343,TC,Philaster or Love Lies a-Bleeding
+"Beaumont, Francis; Fletcher, John",1613,0.81,A06389,CO,The Scornful Lady 
+"Lower, Sir William",1639,0.99,A06402,TR,The Phoenix in Her Flames 
+"Davenant, William ",1638,,A06453,,"Luminalia, or The Festival of Light "
+"Beaumont, Francis; Fletcher, John",1606,0.08,A06458,CO,The Woman Hater 
+"Lupton, Thomas",1577,0.09,A06480,CO,All for Money 
+"Lyly, John",1583,0.09,A06583,CO,"Campaspe (Alexander, Campaspe, and Diogenes) "
+"Lyly, John",1591,0.01,A06589,CO,Endymion
+"Lyly, John",1584,0.01,A06619,CO,Gallathea 
+"Lyly, John",1590,0.49,A06620,TC,Love's Metamorphosis 
+"Lyly, John",1589,0.02,A06621,CO,Midas
+"Lyly, John",1591,0.05,A06622,CO,Mother Bombie
+"Lyly, John",1584,0.01,A06625,CO,Sappho and Phao 
+"Lyly, John",1593,0.01,A06629,CO,The Woman in the Moon 
+anon.,1600,0.01,A06742,CO,The Maid's Metamorphosis 
+"Markham, Gervase; Machin, Lewis",1608,0.44,A06975,CO,The Dumb Knight 
+"Markham, Gervase; Sampson, William",1622,0.33,A06982,TR,Herod and Antipater 
+"Marlowe, Christopher",1589,0.44,A06991,TR,The Jew of Malta 
+"Marlowe, Christopher",1593,0.05,A07003,TR,The Massacre at Paris 
+"Marlowe, Christopher",1587,0.04,A07004_01,TR,1 Tamburlaine
+"Marlowe, Christopher",1587,0.04,A07004_02,TR,2 Tamburlaine
+"Marlowe, Christopher",1592,1.04,A07009,TR,Dr. Faustus
+"Marlowe, Christopher",1592,0.0,A07018,HI,Edward the Second 
+"Marlowe, Christopher; Nashe, Thomas",1588,0.1,A07023,TR,"Dido, Queen of Carthage "
+"Marmion, Shakerly",1633,0.02,A07024,CO,A Fine Companion 
+"Marmion, Shackerley",1632,0.3,A07025,CO,Holland's Leaguer 
+"Marston, John",1599,0.04,A07063,TC,Antonio and Mellida 
+"Marston, John",1600,0.0,A07064,TR,Antonio's Revenge
+"Marston, John",1605,0.93,A07065,CO,The Dutch Courtesan
+"Machin, Lewis; Barkstead, William; Marston, John",1607,0.0,A07067,TR,The Insatiate Countess 
+"Marston, John; Webster, John",1603,0.95,A07071,TC,The Malcontent
+"Marston, John",1604,0.03,A07077,CO,"Parasitaster, or The Fawn "
+"Marston, John",1601,0.0,A07081,CO,What You Will 
+"Marston, John",1605,0.09,A07083,TR,"The Wonder of Women, or Sophonisba "
+"Mason, John",1610,0.98,A07217,TR,The Turk
+"Massinger, Philip",1623,0.01,A07234,CO,The Bondman
+"Massinger, Philip",1621,0.04,A07237,TR,The Duke of Milan 
+"Massinger, Philip",1631,0.99,A07238,TC,The Emperor of the East 
+"Massinger, Philip",1627,0.0,A07239,TC,The Great Duke of Florence 
+"Massinger, Philip",1621,2.0,A07240,CO,The Maid of Honour
+"Massinger, Philip",1626,0.01,A07241,CO,A New Way to Pay Old Debts 
+"Massinger, Philip",1629,0.89,A07245,TC,The Picture 
+"Massinger, Philip",1624,0.38,A07246,CO,"The Renegado, or The Gentleman of Venice "
+"Massinger, Philip",1626,1.28,A07247,TR,The Roman Actor 
+"Massinger, Philip",1624,1.04,A07248,TR,The Unnatural Combat 
+"Dekker, Thomas; Massinger, Philip",1620,0.01,A07249,TR,The Virgin Martyr 
+"Field, Nathan; Massinger, Philip",1619,1.97,A07251,TR,The Fatal Dowry 
+"May, Thomas",1620,0.41,A07326,CO,The Heir 
+"May, Thomas",1627,0.05,A07329,TR,"Antigone, the Theban Princess "
+"May, Thomas",1626,1.23,A07330,TR,"Cleopatra, Queen of Egypt "
+"May, Thomas",1628,0.09,A07332,TR,"Julia Agrippina, Empress of Rome"
+"Mayne, Jasper",1637,0.0,A07367,CO,The City Match 
+"Dekker, Thomas",1601,0.03,A07492,CO,"Blurt, Master Constable"
+"Middleton, Thomas",1613,0.02,A07493,CO,A Chaste Maid in Cheapside 
+"Middleton, Thomas",1608,0.01,A07495,CO,The Family of Love 
+"Middleton, Thomas",1624,0.05,A07498,TC,A Game at Chess 
+"Middleton, Thomas",1621,,A07502,,Honorable Entertainments 
+"Middleton, Thomas",1619,,A07503,,"The Inner-Temple Masque, or The Masque of Heroes "
+"Middleton, Thomas",1606,0.02,A07504,CO,"A Mad World, My Masters "
+"Middleton, Thomas",1606,0.32,A07505,CO,Michaelmas Term 
+"Middleton, Thomas",1607,0.03,A07507,CO,The Phoenix 
+"Middleton, Thomas",1605,0.05,A07511,CO,A Trick to Catch the Old One 
+"Middleton, Thomas",1613,,A07518,,The Triumphs of Truth; The Entertainment on Michaelmas Day 1613 
+"Dekker, Thomas; Middleton, Thomas",1611,0.02,A07524,CO,"The Roaring Girl, or Moll Cutpurse "
+"Middleton, Thomas; Rowley, William",1620,,A07525,,The World Tossed at Tennis 
+"Middleton, Thomas; William Rowley",1617,0.03,A07528,CO,A Fair Quarrel 
+"Milton, John",1637,,A07555,,Comus
+"Belchier, Dabridgcourt",1618,0.02,A07637,CO,Hans Beer-Pot (See Me and See Me Not) 
+"Munday, Anthony; Chettle, Henry",1598,0.26,A07897,HI,"The Death of Robert, Earl of Huntingdon"
+"Munday,  Anthony",1605,,A07907,,The Triumphs of Reunited Britannia 
+"Nabbes, Thomas",1640,0.61,A07970,CO,The Bride
+"Nabbes, Thomas",1638,0.55,A07971,CO,Covent Garden 
+"Nabbes, Thomas",1637,0.08,A07974,TR,Hannibal and Scipio 
+"Nabbes, Thomas",1638,,A07976_01,,The Spring's Glory 
+"Nabbes, Thomas",1638,,A07976_02,,Time and the Almanac Makers
+"Nabbes, Thomas",1633,0.86,A07978,CO,Tottenham Court 
+"Nabbes, Thomas",1640,0.04,A07979,TR,The Unfortunate Mother 
+"Nashe, Thomas",1592,0.01,A08009,CO,Summer's Last Will and Testament 
+anon.,1624,0.28,A08065,TR,Nero (Piso's Conspiracy) 
+anon.,1605,0.09,A08262,HI,Nobody and Somebody 
+"Norton, Thomas; Sackville, Thomas",1562,0.05,A08360,TR,Ferrex and Porrex (Gorboduc) 
+"Munday, Anthony; Drayton, Michael; Wilson, Robert; Hathaway, Richard",1599,0.31,A08469,HI,Sir John Oldcastle 
+"Berkeley, Sir William",1638,0.0,A08731,TC,The Lost Lady 
+"Pasqualigo, Luigi",1583,0.0,A09134,CO,Fedele and Fortunio
+"Peele, George",1584,1.68,A09220,TC,The Arraignment of Paris 
+"Peele, George",1588,0.02,A09221,HI,The Battle of Alcazar 
+"Peele, George",1591,,A09222,,Descensus Astraeae 
+"Peele, George",1591,1.5,A09224,HI,Edward the First 
+"Peele, George",1594,0.01,A09228,TR,David and Fair Bathsheba 
+"Peele, George",1590,0.0,A09232,CO,The Old Wives Tale
+"Goffe, Thomas",1567,0.02,A09651,TR,The Interlude of Vice (Orestes) 
+"Porter, Henry",1599,0.65,A09857,CO,The Two Angry Women of Abingdon 
+"Randolph, Thomas",1630,,A10402,,Aristippus; The Conceited Pedlar 
+"Randolph, Thomas",1632,0.0,A10407,CO,The Jealous Lovers
+"Rawlins, Thomas",1638,0.07,A10495,TR,The Rebellion 
+anon.,1594,0.05,A10730,HI,The True Tragedy of Richard the Third 
+"Dekker, Thomas",1634,0.8,A11145,TR,"The Noble Spanish Soldier (The Noble Soldier, or A Contract Broken Justly Revenged) "
+"Rowley, Samuel",1605,1.17,A11146,HI,When You See Me You Know Me (Henry the Eighth) 
+"Rowley, William",1622,0.66,A11151,CO,A Match at Midnight 
+"Rowley, William",1638,0.29,A11152,CO,A Shoemaker a Gentleman 
+"Rowley, William",1611,0.26,A11153,CO,"A New Wonder, A Woman Never Vexed "
+"Rowley, William",1619,1.12,A11155,TR,All's Lost by Lust 
+"Rutter, Joseph",1635,0.17,A11205,TC,The Shepherds' Holiday 
+"S., W.",1595,0.84,A11262,TR,Locrine 
+"Middleton, Thomas",1607,0.72,A11264,CO,"The Puritan, or The Widow of Watling Street "
+"S., W.",1602,0.0,A11265,HI,Thomas Lord Cromwell 
+"Sampson, William",1625,0.01,A11435,CO,"The Vow Breaker, or The Fair Maid of Clifton "
+Seneca,1581,,A11909_00,,preface to 1581 translation
+"Seneca, Lucius Annaeus",1561,0.21,A11909_01,TR,Hercules Furens
+"Seneca, Lucius Annaeus",1560,0.21,A11909_02,TR,Thyestes
+"Seneca, Lucius Annaeus",1562,0.33,A11909_03,TR,Thebais
+"Seneca, Lucius Annaeus",1567,0.59,A11909_04,TR,Hippolytus
+"Seneca, Lucius Annaeus",1581,0.54,A11909_05,TR,Oedipus
+"Seneca, Lucius Annaeus",1558,0.19,A11909_06,TR,Troas
+"Seneca, Lucius Annaeus",1566,0.26,A11909_07,TR,Medea
+"Seneca, Lucius Annaeus",1566,0.37,A11909_08,TR,Agamemnon
+"Seneca, Lucius Annaeus",1566,0.2,A11909_09,TR,Octavia
+"Seneca, Lucius Annaeus",1566,0.36,A11909_10,TR,Hercules Oetaeus
+anon.,1604,0.71,A12023,CO,The London Prodigal 
+"Middleton, Thomas (?)",1606,0.11,A12030,TR,A Yorkshire Tragedy 
+"Sharpham, Edward",1607,0.67,A12074,CO,Cupid's Whirligig 
+"Sharpham, Edward",1606,0.01,A12078,CO,The Fleer 
+"Shirley, Henry",1638,0.04,A12127,TR,The Martyred Soldier 
+"Shirley, James",1633,0.3,A12128,CO,The Bird in a Cage (The Beauties) 
+"Shirley, James",1632,0.01,A12129,CO,"Changes, or Love in a Maze "
+"Shirley, James",1638,0.31,A12130,CO,The Constant Maid 
+"Shirley, James",1631,0.46,A12131,TC,The Contention for Honor and Riches (Honoria and Mammon) 
+"Shirley, James",1635,0.46,A12133,CO,The Coronation 
+"Shirley, James",1636,0.03,A12135,CO,The Duke's Mistress 
+"Shirley, James",1634,0.08,A12136,CO,The Example 
+"Shirley, James",1633,0.02,A12137,CO,The Gamester 
+"Shirley, James",1629,1.18,A12138,CO,The Grateful Servant 
+"Shirley, James",1632,1.11,A12140,CO,Hyde Park 
+"Shirley, James",1631,0.02,A12141,CO,The Humorous Courtier 
+"Shirley, James",1635,0.11,A12142,CO,The Lady of Pleasure 
+"Shirley, James",1631,0.05,A12143,TR,Love's Cruelty 
+"Shirley, James",1626,0.49,A12145,TR,The Maid's Revenge 
+"Shirley, James",1634,0.09,A12148,TR,The Opportunity 
+"Shirley, James",1640,0.19,A12149,TC,The Arcadia 
+"Shirley, James",1637,0.8,A12150,CO,The Royal Master 
+"Shirley, James",1639,0.46,A12151,CO,1 Saint Patrick for Ireland 
+"Shirley, James",1625,0.08,A12152,CO,The School of Compliment  
+"Shirley, James",1631,0.28,A12154,TR,The Traitor 
+"Shirley, James",1626,0.97,A12155,CO,The Wedding 
+"Shirley, James",1628,0.07,A12157,CO,The Witty Fair One 
+"Shirley, James",1633,,A12158,,The Young Admiral 
+"Smith, Wentworth (?); Smith, William (?)",1614,0.36,A12548,TR,"The Hector of Germany, or The Palsgrave, Prime Elector "
+"Kyd, Thomas",1592,0.01,A12578,TR,Soliman and Perseda
+"Stephens, John",1613,0.48,A12954,TR,Cynthia's Revenge
+"Stevenson, William",1553,1.85,A12969,CO,Gammer Gurton's Needle 
+anon.,1594,0.22,A13062,HI,Jack Straw 
+"Suckling, Sir John",1638,,A13125,TR,Aglaura 
+"Tailor, Robert",1614,0.03,A13345,CO,The Hog Hath Lost His Pearl 
+anon.,1594,0.02,A13358,CO,The Taming of a Shrew 
+"Tatham, John",1640,,A13393_01,,The Fancies Theater (The Mirror of Fancies) 
+"Tatham, John",1632,0.28,A13393_02,CO,Love Crowns the End
+Terence,1588,0.03,A13611,CO,Andria 
+Terence,1627,,A13613_00,,Preface to translations 
+Terence,1627,0.06,A13613_01,CO,The Andrian Woman (Andria)
+Terence,1627,0.08,A13613_02,CO,The Eunuch
+"Tomkis, Thomas",1615,0.0,A13802,CO,Albumazar 
+"Tourneur, Cyril",1611,0.2,A13840,TR,The Atheist's Tragedy
+"Middleton, Thomas (?)",1606,0.01,A13843,TR,The Revenger's Tragedy 
+"Townshend, Aurelian",1632,,A13846,,Albion's Triumph 
+"Townshend, Aurelian",1632,,A13848,,Tempe Restored 
+"Udall, Nicholas",1552,0.59,A14193,CO,Ralph Roister Doister
+"W., J.",1637,0.01,A14599,TR,The Valiant Scot 
+"Wapull, George",1576,0.4,A14715,CO,The Tide Tarrieth No Man 
+"Webster, John",1619,0.08,A14869,TC,The Devil's Law Case (When Women Go to Law the Devil Is Full of Business) 
+"Webster, John",1614,0.29,A14872,TR,The Duchess of Malfi 
+"Webster, John",1612,0.06,A14875,TR,The White Devil
+"Whetstone, George",1577,,A15045,CO,Promos and Cassandra
+"Wilkins, George",1607,0.08,A15352,TR,The Miseries of Enforced Marriage 
+"Wilmot, Robert; Hatton, Christopher; Noel, Henry; Al., G.; Stafford, Roderick",1568,0.33,A15498,TR,Gismond of Salerne
+"Wilson, Robert",1590,0.32,A15515,CO,The Cobbler's Prophecy 
+anon,1595,,A15516,,The Pedlar's Prophecy 
+"Wilson, Robert",1588,,A15517,,The Three Lords and Three Ladies of London 
+"Wilson, Robert",1592,0.54,A15519,CO,The Three Ladies of London 
+anon.,1606,0.36,A15549,CO,Wily Beguiled 
+"Yarington, Robert",1594,0.71,A15814,TR,Two Lamentable Tragedies 
+"Zouche, Richard",1614,0.08,A15873,CO,The Sophister
+"Alexander, William",1604,0.0,A16527_01,TR,Croesus
+"Alexander, William",1604,0.02,A16527_02,TR,Darius
+"Alexander, William",1604,0.05,A16527_03,TR,The Alexandraean Tragedy
+"Alexander, William",1604,0.03,A16527_04,TR,Julius Caesar
+"Brome, Richard",1640,0.03,A16923,CO,The Antipodes
+"Brome, Richard",1632,1.97,A16924,CO,The Northern Lass 
+"Brome, Richard",1635,0.27,A16927,CO,The Sparagus Garden (Tom Hoydon o' Tanton Deane)
+"Cumber, John (?)",1620,0.1,A17460,CO,"The Two Merry Milkmaids, or The Best Words Wear the Garland "
+"Campion, Thomas",1607,,A17871,,The Masque at Lord Hay's Marriage
+"Cary, Elizabeth",1604,0.6,A17956,TR,"Mariam, the Fair Queen of Jewry "
+"Carlell, Lodowick",1629,0.01,A17968,TC,The Deserving Favorite 
+"Cartwright, William",1639,0.14,A18083,TC,The Royal Slave 
+"Rojas, Fernando de",1631,0.16,A18331,TC,The Spanish Bawd (Calisto and Meliboea) 
+"Chamberlain, Robert",1640,0.03,A18374,CO,The svvaggering damsel
+"Chapman, George",1601,1.11,A18400,CO,All Fools 
+"Chapman, George",1596,1.29,A18402,CO,The Blind Beggar of Alexandria
+"Chapman, George",1604,0.01,A18403,TR,Bussy D'Ambois 
+"Chapman, George",1608,0.22,A18404_01,TR,The Conspiracy  of Charles Duke of Byron 
+"Chapman, George",1608,0.22,A18404_02,TR,The  Tragedy of Charles Duke of Byron 
+"Chapman, George; Jonson, Ben; Marston, John",1605,0.02,A18407,CO,Eastward Ho 
+"Chapman, George",1602,1.9,A18413,CO,The Gentleman Usher
+"Chapman, George",1602,0.28,A18415,CO,May Day
+"Chapman, George",1613,,A18416,,The Masque of the Middle Temple and Lincoln's Inn 
+"Chapman, George",1597,1.14,A18419,CO,An Humorous Day's Mirth
+"Chapman, George",1610,0.47,A18421,TR,The Revenge of Bussy D'Ambois
+"Chapman, George",1619,1.14,A18423,CO,Two Wise Men and All the Rest Fools 
+"Chapman, George",1605,0.14,A18425,TR,Caesar and Pompey (The Wars of Caesar and Pompey) 
+"Chapman, George",1604,0.0,A18426,CO,The Widow's Tears
+"Shirley, James",1632,0.0,A18427,CO,The Ball 
+"Davies, Richard",1610,,A18589,,Chester's Triumph
+"Chettle, Henry",1602,0.48,A18596,TR,"Hoffman, or A Revenge for a Father "
+"Churchyard, Thomas",1578,,A18729,,The Entertainment in Suffolk and Norfolk 
+anon.,1601,0.02,A19182,TC,The Contention between Liberality and Prodigality 
+"Heywood, Thomas",1602,0.07,A19183,CO,How a Man May Choose a Good Wife from a Bad 
+"Cooke, Joshua",1614,0.29,A19260,CO,"Greene's Tu Quoque, or The City Gallant "
+"Corneille, Pierre",1637,0.05,A19346,TC,The Cid
+"Desfontaines, Nicolas-Marc",1640,0.02,A19347,TC,2 The Cid
+"Cowley, Abraham",1638,0.0,A19479,CO,Love's Riddle 
+anon.,1594,0.04,A19738,TR,The Wars of Cyrus 
+"D., J.",1640,0.03,A19750,CO,"The Knave in Grain, New Vamped "
+"Dekker, Thomas; Middleton, Thomas",1608,0.0,A19755,TR,The Bloody Banquet 
+"Daborne, Robert",1611,0.38,A19757,TR,A Christian Turned Turk
+"Daniel, Samuel",1605,0.41,A19812_03,TR,Philotas
+"Daniel, Samuel",1594,0.0,A19816_03,TR,Cleopatra
+"Daniel, Samuel",1615,0.02,A19829,TC,Hymen's Triumph 
+"Daniel, Samuel",1605,0.35,A19835,CO,The Queen's Arcadia 
+"Daniel, Samuel",1604,,A19837,,The Vision of the Twelve Goddesses (The Masque at Hampton Court) 
+"Davenant, Sir William",1630,0.47,A19876,TR,The Cruel Brother 
+"Davenant, Sir William",1630,0.31,A19877,CO,The Just Italian 
+"Davenant, William ",1640,,A19880,,Salmacida Spolia 
+"Davenant, Sir William",1629,0.01,A19881,TR,"Albovine, King of the Lombards "
+"Davenant, Sir William",1636,0.07,A19883,CO,The Wits 
+"Davenport, Robert",1625,0.02,A19888,CO,A New Trick to Cheat the Devil 
+"Day, John",1608,0.33,A19975,CO,Humor Out of Breath 
+"Day, John",1606,0.1,A19976,CO,The Isle of Gulls 
+"Day, John",1608,0.12,A19977,CO,Law Tricks 
+"Day, John; Wilkins, George; Rowley, William",1607,0.01,A19978,CO,The Travels of the Three English Brothers 
+"Dekker, Thomas",1628,,A20053,,Britannia's Honour
+"Dekker, Thomas; Middleton, Thomas",1604,0.25,A20062,CO,1 The Honest Whore
+"Dekker, Thomas",1605,0.03,A20065,CO,2 The Honest Whore
+"Dekker, Thomas",1611,1.3,A20066,CO,"If It Be Not Good, the Devil Is in It"
+"Dekker, Thomas",1599,0.04,A20076,CO,Old Fortunatus 
+"Dekker, Thomas; Chettle, Henry; Haughton, William",1600,0.01,A20077,CO,Patient Grissel 
+"Dekker, Thomas",1601,1.24,A20081,CO,"Satiromastix, or The Untrussing of the Humorous Poet "
+"Dekker, Thomas",1599,0.02,A20083,CO,The Shoemaker's Holiday
+"Dekker, Thomas",1611,0.01,A20088,CO,Match Me in London 
+"Dekker, Thomas",1631,0.08,A20093,CO,The Wonder of A Kingdom 
+"Dekker, Thomas; Webster, John",1602,1.33,A20096,HI,The Famous History of Sir Thomas Wyatt 
+"Dekker, Thomas; Webster, John",1605,0.55,A20098,CO,Northward Ho 
+"Dekker, Thomas; Webster, John",1604,0.58,A20100,CO,Westward Ho 
+"Drue, Thomas",1631,0.68,A20866,HI,The Duchess of Suffolk 
+"Marston, John",1600,0.03,A20867,CO,Jack Drum's Entertainment
+anon.,1591,0.04,A20951,TR,Arden of Faversham 
+anon.,1603,0.04,A21136,CO,The Merry Devil of Edmonton 
+anon.,1596,0.14,A21144,HI,The Reign of King Edward the Third 
+anon.,1575,,A21238,,The Queen's Entertainment at Woodstock 
+anon.,1590,0.05,A21328,CO,Fair Em
+"Armin, Robert",1608,0.08,A21411,CO,The Two Maids of More-Clacke 
+"Beaumont, Francis; Fletcher, John",1647,,A27177_00,,Preface to 1647 edition of Beaumont and Fletcher
+"Fletcher, John",1617,0.07,A27177_01,TC,The Mad Lover
+"Fletcher, John; Massinger, Philip",1622,0.04,A27177_02,CO,The Spanish Curate
+"Fletcher, John; Massinger, Philip",1619,0.06,A27177_03,CO,The Little French Lawyer
+"Fletcher, John; Massinger, Philip",1620,0.07,A27177_04,CO,The Custom of the Country
+"Fletcher, John; Beaumont, Francis (?)",1605,0.02,A27177_05,CO,The Noble Gentleman
+"Fletcher, John; Beaumont, Francis (?)",1612,0.03,A27177_06,CO,The Captain
+"Beaumont, Francis; Fletcher, John; Massinger, Philip",1622,0.04,A27177_07,CO,The Beggar's Bush
+"Beaumont, Francis; Fletcher, John",1616,0.09,A27177_08,CO,The Coxcomb
+"Fletcher, John; Massinger, Philip",1620,0.08,A27177_09,HI,The False One
+"Fletcher, John",1617,0.0,A27177_10,CO,The Chances
+"Fletcher, John",1618,0.01,A27177_11,TC,The Loyal Subject
+"Ford, John",1619,0.05,A27177_12,TC,The Laws of Candy
+"Fletcher, John; Massinger, Philip",1623,0.02,A27177_13,TC,The Wandering Lovers (The Lovers' Progress) (Cleander)
+"Fletcher, John",1621,0.0,A27177_14,TC,The Island Princess
+"Fletcher, John",1619,0.0,A27177_15,CO,"The Humorous Lieutenant (Generous Enemies, Demetrius and Enanthe)"
+"Middleton, Thomas; Fletcher, John",1622,0.0,A27177_16,CO,"The Nice Valor, or The Passionate Madman"
+"Fletcher, John; Rowley, William",1623,0.02,A27177_17,CO,The Maid in the Mill
+"Fletcher, John; Massinger, Philip",1622,0.03,A27177_18,TC,The Prophetess
+"Fletcher, John",1613,0.06,A27177_19,TR,Bonduca 
+"Fletcher, John; Massinger, Philip",1613,0.01,A27177_20,CO,The Sea Voyage
+"Fletcher, John; Massinger, Philip",1620,0.04,A27177_21,TR,The Double Marriage
+"Fletcher, John",1621,0.02,A27177_22,CO,The Pilgrim
+"Field, Nathan; Fletcher, John; Massinger, Philip",1618,0.01,A27177_23,TC,The Knight of Malta
+"Fletcher, John",1611,0.02,A27177_24,CO,"The Woman's Prize, or The Tamer Tamed"
+"Beaumont, Francis; Fletcher, John; Massinger, Philip",1606,0.02,A27177_25,CO,"Love's Cure, or The Martial Maid"
+"Field, Nathan; Massinger, Philip; Fletcher, John",1613,0.04,A27177_26,TC,The Honest Man's Fortune
+"Field, Nathan; Fletcher, John; Massinger, Philip",1617,0.01,A27177_27,TC,The Queen of Corinth
+"Fletcher, John",1620,0.01,A27177_28,TC,Women Pleased
+"Fletcher, John",1624,0.03,A27177_29,TC,A Wife for a Month
+"Middleton, Thomas; Rowley, William",1613,0.06,A27177_30,CO,Wit at Several Weapons
+"Fletcher, John",1614,0.0,A27177_31,TR,Valentinian
+"Fletcher, John; Ford, John; Massinger, Philip; Webster, John (?)",1626,0.01,A27177_32,CO,The Fair Maid of the Inn
+"Beaumont, Francis; Fletcher, John",1616,0.01,A27177_33,TC,Love's Pilgrimage
+"Fletcher, John; Field, Nathan",1613,,A27177_35,,"Four Plays, or Moral Representations, in One"
+"Fletcher, John",1621,0.0,A27203,CO,The Wild Goose Chase 
+"Brathwait, Richard",1641,0.01,A29238,TC,"Mercurius Britannicus, or The English Intelligencer (The Censure of Judges, or The Court Cure) "
+"Brome, Alexander",1638,0.04,A29620,CO,The Cunning Lovers 
+"Brome, Richard",1638,,A29635,,The Damoiselle or The New Ordinary
+"Brome, Richard",1641,0.01,A29637,CO,"A Jovial Crew, or The Merry Beggars "
+"Brome, Richard",1657,0.03,A29644,CO,The Queen's Exchange (The Royal Exchange) 
+"Burnell, Henry",1641,0.04,A30315,TC,Landgartha 
+"Glapthorne, Henry",1640,0.71,A31672,TR,Revenge for Honor (The Parricide) 
+anon.,1594,0.96,A31675,TR,"Alphonsus, King of Aragon "
+"Denham, John",1642,0.01,A35657,TR,The Sophy 
+"Day,  John",1611,,A37285,,The Parliament of Bees 
+"Dekker, Thomas; Ford, John",1624,,A39898,,The Sun's Darling 
+"Goffe, Thomas",1619,0.05,A41366,TC,The Careless Shepherdess 
+anon.,1591,,A41993,,Mucedorus (and Amadine) 
+"Heywood, Thomas; Rowley, William",1609,0.97,A43595,CO,Fortune by Land and Sea 
+"Jonson, Ben",1616,0.25,A46228,CO,The Devil Is an Ass 
+"Middleton, Thomas",1616,0.01,A46230,CO,The Widow 
+"Killigrew, Thomas",1636,0.05,A47372_01,TC,The Princess
+"Killigrew, Thomas",1641,0.02,A47372_02,CO,The Parson's Wedding
+"Killigrew, Thomas",1636,0.05,A47372_10,TC,Claricilla
+"Killigrew, Thomas",1635,0.05,A47372_11,TC,The Prisoners
+"Dekker, Thomas; Haughton, William; Day, John",1600,0.88,A49479,TR,"Lust's Dominion, or The Lascivious Queen "
+"Massinger, Philip",1632,0.05,A50090,CO,The City Madam 
+"Middleton, Thomas; Rowley, William; Heywood, Thomas",1618,4.42,A50091,CO,"The Old Law, or A New Way to Please You "
+"Massinger, Philip",1636,0.0,A50093_01,TC,The Bashful Lober
+"Massinger, Philip",1633,0.0,A50093_02,CO,The Guardian
+"Fletcher, John; Massinger, Philip",1636,0.0,A50093_03,TC,"A Very Woman, or The Prince of Tarent"
+"Middleton, Thomas",1621,0.0,A50787,CO,Anything for a Quiet Life
+"Middleton, Thomas; Rowley, William",1622,0.03,A50789,TR,The Changeling 
+"Middleton, Thomas",1618,0.06,A50793,CO,The Mayor of Quinborough
+"Middleton, Thomas",1615,0.01,A50799_01,CO,More Dissemblers Beside Women
+"Middleton, Thomas",1621,0.01,A50799_02,TR,Women Beware Women
+anon.,1641,0.2,A52953,CO,Canterbury His Change of Diet 
+"Cavendish, Margaret",1662,,A53060_00,,Preface
+"Cavendish, Margaret",1662,,A53060_01,,1 Love's Adventures
+"Cavendish, Margaret",1662,,A53060_02,,2 Love's Adventures
+"Cavendish, Margaret",1662,0.01,A53060_03,CO,Several Wits
+"Cavendish, Margaret",1662,,A53060_04,,1 Youth's Glory and Death's Banquet
+"Cavendish, Margaret",1662,,A53060_05,,2 Youth's Glory and Death's Banquet
+"Cavendish, Margaret",1662,,A53060_06,,1 The Lady
+"Cavendish, Margaret",1662,,A53060_07,,2 The Lady
+"Cavendish, Margaret",1662,,A53060_08,,1 Wit's Cabal
+"Cavendish, Margaret",1662,,A53060_09,,2 Wit's Cabal
+"Cavendish, Margaret",1662,0.05,A53060_10,TR,The Unnatural Tragedy
+"Cavendish, Margaret",1662,,A53060_11,,The Wooers
+"Cavendish, Margaret",1662,0.07,A53060_12,CO,1 The Matrimonial Trouble
+"Cavendish, Margaret",1662,0.06,A53060_13,TC,2 The Matrimonial Trouble
+"Cavendish, Margaret",1662,,A53060_14,,1 Beauty Love and Wit
+"Cavendish, Margaret",1662,,A53060_15,,2 Beauty Love and Wit
+"Cavendish, Margaret",1662,,A53060_16,,The Religious
+"Cavendish, Margaret",1662,0.03,A53060_17,CO,The Comical Hash
+"Cavendish, Margaret",1662,,A53060_18,,1 Bell in Campo
+"Cavendish, Margaret",1662,,A53060_19,,2 Bell in Campo
+"Cavendish, Margaret",1662,0.07,A53060_20,CO,A Comedy of the Apocryphal Ladies
+"Cavendish, Margaret",1662,,A53060_21,,The Female Academy
+"Cavendish, William; Shirley, James",1640,0.24,A53070_01,CO,The Country Captain
+"Cavendish, William",1641,0.12,A53070_02,CO,The Variety
+"Ford, John",1628,0.46,A56872,TC,The Queen
+"Rowley, William",1608,0.56,A57763,TC,The birth of Merlin
+"Dekker, Thomas; Rowley, William; Ford, John",1621,0.09,A57764,TC,The Witch of Edmonton 
+"Shirley, James",1639,0.04,A59979,CO,The Gentleman of Venice 
+"Shirley, James",1639,0.01,A59990,TR,The Politician 
+"Shirley, James",1640,0.45,A59992_04,TC,The Impostor
+"Shirley, James",1642,0.28,A59992_06,TC,The Court Secret
+"Suckling, Sir John",1642,0.99,A61942,TR,"Brennoralt, or The Discontented Colonel "
+"Webster, John; Rowley, William",1599,0.02,A62477,CO,The Thracian Wonder
+"Tomkis, Thomas",1657,0.07,A62894,CO,"Lingua, or The Combat of the Tongue and the Five Senses for Superiority "
+"Webster, John",1624,0.67,A65360,TR,Appius and Virginia
+"Greene, Robert",1591,2.53,A68114,TR,The Tragical Reign of Selimus
+anon.,1601,0.0,A68191,HI,The Trial of Chivalry (This Gallant Cavaliero Dick Bowyer) 
+"Middleton, Thomas",1607,0.74,A68468,CO,Your Five Gallants
+"Richards, Nathaniel",1640,0.92,A68655,TR,"Messalina, the Roman Empress "
+"S., S.",1616,0.01,A68683,CO,The Honest Lawyer 
+"Woodes, Nathaniel",1572,0.36,A68918,CO,The Conflict of Conscience 
+"Chapman, George",1605,0.37,A69093,CO,Monsieur D'Olive 
+"Peele, George",1599,0.34,A69121,HI,Clyomon and Clamydes 
+"Hausted, Peter",1632,0.1,A72254,CO,The Rival Friends 
+anon.,1595,0.08,A73627,TR,Caesar and Pompey
+"Carew, Thomas",1634,,A73704,,Coelum Britannicum 
+"Brome, Richard",1632,0.22,A77565_01,CO,A Mad Couple Well Matched
+"Brome, Richard",1639,0.37,A77565_02,CO,The Novella
+"Brome, Richard",1637,0.2,A77565_04,CO,"The City Wit, or The Woman Wears the Breeches"
+"Brome, Richard",1632,0.21,A77567_01,CO,"The English Moor, or The Mock Marriage"
+"Brome, Richard",1635,0.11,A77567_02,TC,"The Lovesick Court, or The Ambitious Politic"
+"Brome, Richard",1635,0.12,A77567_03,CO,"The Weeding of the Covent Garden, or The Middlesex Justice of Peace"
+"Brome, Richard",1659,0.23,A77567_04,CO,The New Academy or The New Exchange
+"Brome, Richard",1659,0.04,A77567_05,TC,The Queen and Concubine
+"Goffe, Thomas",1656,0.04,A85334_01,TR,"The Raging Turk, or Bajazet the Second"
+"Goffe, Thomas",1619,0.02,A85334_02,TR,The Courageous Turk
+"Shirley, James",1652,0.11,A93166,CO,The Brothers
+"Shirley, James",1641,0.07,A93167,TR,The Cardinal 
+"Shirley, James",1638,0.11,A93170,TC,The Doubtful Heir 
+"Shirley, James",1642,0.09,A93178,CO,The Sisters 
+"Shirley, James",1633,,B07101,,The Triumph of Peace 
